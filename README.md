@@ -199,3 +199,5 @@ If you find this project helpful, please consider:
 
 **Built with ❤️ by Eden Marco**
 
+
+<!-- test: Claude Code Review check, safe to discard -->
